@@ -1,6 +1,4 @@
 # Text Editing Application with Composite Design Pattern
-CENG 431 HW#3
-
 You should fulfill the concepts of;
 ```
 •	Composite Design Pattern
